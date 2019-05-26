@@ -1,5 +1,5 @@
 /**
- * logic
+ * logical
  *
  * @author kerraway
  * @date 2019/05/26
